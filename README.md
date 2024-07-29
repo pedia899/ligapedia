@@ -9,7 +9,7 @@
 - **Konten Edukatif**: Artikel dan tutorial yang membantu penggemar memahami lebih dalam tentang sepak bola.
 
 ## Kontribusi
-Kami menyambut kontribusi dari semua penggemar sepak bola. Silakan lihat panduan kontribusi kami untuk informasi lebih lanjut tentang cara berkontribusi <a href="https://github.com/pedia899/ligapedia" target="_blank">Ligapedia on GitHub</a>.
+Kami menyambut kontribusi dari semua penggemar sepak bola. Silakan lihat panduan kontribusi kami untuk informasi lebih lanjut tentang cara berkontribusi <a href="https://165.22.100.213/" target="_blank">Ligapedia on GitHub</a>.
 
 ## Lisensi
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).
